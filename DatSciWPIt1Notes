@@ -1,0 +1,16 @@
+DatSciWPIt1Notes
+
+Notes on How to improve warmup project iteration for Data Science
+
+Try splitting data and running regression after dividing data into subsets, and bringing output together.
+
+Add a new category called title. Adding more variables will make the regression finer.
+
+Due to the high irregularity of age + sex groups, as child females seemed to die a lot, making new category combinations of gender + age may make the analysis finer.
+
+Crew members probably did not survive, compared to passengers.
+
+Port Embarked, making new dummy variables. Port people embarked on wasn't important to whether or not they survived.
+
+Fare multiplied by beginning port
+
